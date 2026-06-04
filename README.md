@@ -1,5 +1,10 @@
 # bsv-compat
 
+[![PyPI version](https://img.shields.io/pypi/v/bsv-compat.svg)](https://pypi.org/project/bsv-compat/)
+[![Python versions](https://img.shields.io/pypi/pyversions/bsv-compat.svg)](https://pypi.org/project/bsv-compat/)
+[![Tests](https://github.com/datamynt/bsv-compat/actions/workflows/test.yml/badge.svg)](https://github.com/datamynt/bsv-compat/actions/workflows/test.yml)
+[![License](https://img.shields.io/badge/license-Open%20BSV-blue.svg)](LICENSE)
+
 Established (non-BRC) open BSV protocols for Python.
 
 The companion to [`bsv-brc`](https://github.com/datamynt/bsv-brc-python):
